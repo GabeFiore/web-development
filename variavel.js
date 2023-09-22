@@ -2,7 +2,7 @@
 let nome;
 // cria uma variavel vazia
 let disciplina = null;
-// cria uma variavel 
+// cria uma variavel um valor
 let texto = "Este é um exemplo";
 
 console.log(texto)
