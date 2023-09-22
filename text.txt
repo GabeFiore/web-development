@@ -1,2 +1,3 @@
 Comandos:
-git clone; git status ; git add . ; git commit -m "algum texto" ; git push origin (nome da branch) ; git pull ; git checkout -b "gabriel_git_javascript"
+git clone; git status ; git add . ; git commit -m "algum texto" ; git push origin (nome da branch) ; git pull ; git checkout -b "nome_da_nova_branch"
+git branch --all ; 
